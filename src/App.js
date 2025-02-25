@@ -1,13 +1,16 @@
 // Importaçoes
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import Home from './components/pages/Home';
-import Company from './components/pages/Company';
-import Contact from './components/pages/Contact';
-import NewProject from './components/pages/Newproject';
-import Container from './components/layout/Container';
-import Projects from './components/pages/Projects';
-import Navbar from './components/layout/Navbar'
-import Footer from './components/layout/Footer'
+// Paginas
+import Home from './components/pages/Home/Home';
+import Company from './components/pages/Company/Company';
+import Contact from './components/pages/Contact/Contact';
+import NewProject from './components/pages/Newproject/Newproject';
+import Projects from './components/pages/Projects/Projects';
+
+// Componetes
+import Container from './components/layout/Container/Container';
+import Navbar from './components/layout/Navbar/Navbar'
+import Footer from './components/layout/Footer/Footer'
 
 // Pagina principal
 function App() {
