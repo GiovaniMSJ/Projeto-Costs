@@ -10,6 +10,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "afda",
+      "name": "teste2",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
