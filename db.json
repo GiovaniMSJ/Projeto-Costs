@@ -3,7 +3,7 @@
     {
       "id": "529c",
       "name": "Projeto1",
-      "budget": "76000",
+      "budget": "61000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -14,10 +14,10 @@
     {
       "id": "9751",
       "name": "Projeto2",
-      "budget": "34500",
+      "budget": "25000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
