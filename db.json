@@ -1,28 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "529c",
-      "name": "Projeto1",
-      "budget": "61000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9751",
-      "name": "Projeto2",
-      "budget": "25000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",
