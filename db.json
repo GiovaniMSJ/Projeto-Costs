@@ -1,5 +1,24 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "id": "f67a",
+      "name": "teste3",
+      "budget": "60000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 50000,
+      "services": [
+        {
+          "name": "ggghghgh",
+          "cost": "50000",
+          "description": "Fazer a limpeza do jardim da casa :)",
+          "id": "c23bc13d-f918-414f-b3ea-74b5853fd154"
+        }
+      ]
+    }
+  ],
   "categories": [
     {
       "id": "1",
